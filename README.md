@@ -4,7 +4,7 @@
 
 <br><br>
 
-`currently` — tinkering with deepseek and claude<br>
-`elsewhere` — [eklipz.xyz](https://eklipz.xyz)
+`currently` - tinkering with deepseek and claude<br>
+`elsewhere` - [eklipz.xyz](https://eklipz.xyz)
 
 </div>
